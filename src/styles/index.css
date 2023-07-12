@@ -1,3 +1,40 @@
 /* 
     General Styles
 */
+
+body {
+    background-color: rgb(226, 237, 241);
+}
+h1 {
+    margin-left: 10px;
+}
+.contact {
+    width: 90%;
+    margin: auto;
+    border: solid 1px lightgrey;
+    padding: 20px;
+    margin-top: -1px;
+    display: flex;
+}
+
+.contactActions {
+    margin: 10px auto;
+    display: flex;
+
+
+
+}
+.removeContact {
+    padding-left: 30px;
+    cursor: pointer;
+    
+
+}
+
+.editContact {
+    cursor: pointer
+}
+
+.editPage {
+    background: rgb(255, 255, 255);
+}
